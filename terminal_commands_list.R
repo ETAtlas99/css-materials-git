@@ -1,0 +1,9 @@
+#pwd = terminal command to determine location/directory
+#cd = terminal command to navigate through the directory - forward
+#ls = checks the contents of the current directory
+#git init = Creates an empty git directory 
+#ls -a = checks the contents of the current directory, including the hidden files
+#git status = informs user the number of commits, and what files are being tracked
+#git add . = places untracked files in tracking domain
+#git commit -m"First Commit" = to manually commit the files through the terminal
+#git push = send the latest commit to the online repository
